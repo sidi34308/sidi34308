@@ -36,14 +36,7 @@ I'm a motivated front-end development enthusiast with a passion for creating sea
 - Figma ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 - Blender ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)
 
-### Other
-- Problem-Solving
-- Communication
-- Collaboration
-- Detail-Oriented
-- Independent/Team
-
-## Professional Experience
+## Experience
 
 ### Front-End Developer
 #### Mauritanian Presidential Candidate's Website | Feb 2024 – Present
