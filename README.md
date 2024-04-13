@@ -1,20 +1,19 @@
 <!-- Replace the placeholders with your information -->
 
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Sidi Chaikh
 
 ![Front-End Developer](https://img.shields.io/badge/Front--End%20Developer-Expert-blue)
-![Graphic Designer](https://img.shields.io/badge/Graphic%20Designer-Proficient-green)
 ![Computer Science Student](https://img.shields.io/badge/Computer%20Science%20Student-Learning-yellow)
 
-I'm a motivated front-end development enthusiast with a passion for creating seamless and engaging user interfaces. I also have experience in graphic design and am currently pursuing a Bachelor of Science in Computer Science.
+I'm a motivated front-end development enthusiast with a passion for creating seamless and engaging user interfaces. I'm currently pursuing a Bachelor of Science in Computer Science.
 
 ## Skills
 
-- **Frontend Development:** HTML5, CSS3, JavaScript, React, Next.js, Responsive Design, UI/UX, Performance Optimization, Cross-Browser Compatibility
-- **Backend Development:** Node.js, Express.js, Python (Django/Flask), PHP, Java, RESTful APIs
-- **Databases:** SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
-- **Version Control:** Git, GitHub
-- **Design:** Adobe Creative Suite (Photoshop, Illustrator), Figma, Blender
+- **Frontend Development:** HTML5, CSS3, JavaScript, React, Next.js, Responsive Design, UI/UX, Performance Optimization, Cross-Browser Compatibility ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+- **Backend Development:** Node.js, Express.js, Python (Django/Flask), PHP, Java, RESTful APIs ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+- **Databases:** SQL (MySQL, PostgreSQL), NoSQL (MongoDB) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+- **Version Control:** Git, GitHub ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+- **Design:** Adobe Creative Suite (Photoshop, Illustrator), Figma ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 - **Other:** Problem-Solving, Communication, Collaboration, Detail-Oriented, Independent/Team
 
 ## Professional Experience
@@ -25,27 +24,11 @@ I'm a motivated front-end development enthusiast with a passion for creating sea
 - Translated design concepts into interactive and user-friendly interfaces using HTML, CSS, and JavaScript.
 - Conducted code reviews and optimizations to enhance website performance and responsiveness.
 
-### Graphic Designer
-#### Student Affairs Department, Qatar University | Mar. 2023 – Present
-- Designed diverse visual assets such as logos, brochures, and digital advertisements for prominent events hosted by Qatar University's Student Affairs Department.
-- Spearheaded the redesign of the center's website, significantly enhancing its visual appeal and user experience.
-- Fostered close collaboration with stakeholders to grasp their brand identity and goals, subsequently transforming their vision into impactful designs.
-
 ## Education
 
 - **Bachelor of Science in Computer Science**
   Qatar University | Doha, QA | 2021-current
 
-## Volunteering Experience
-
-- 2022: Volunteered for FIFA World Cup Qatar 2022; as accreditation volunteer
-- 2022: Volunteered for Qatar Olympic Museum; as a Guide
-
-## Languages
-
-- Arabic (native)
-- English (fluent)
-- French (elementary)
 
 ## Let's Connect!
 
